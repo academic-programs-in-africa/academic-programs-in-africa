@@ -1,1 +1,1 @@
-# academic-programs-in-africa
+# Graduate and Post-graduate programs in Machine Learning, Artificial Intelligence and Data Sciences in Africa
