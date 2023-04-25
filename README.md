@@ -1,9 +1,7 @@
 # Graduate and Post-graduate programs in Machine Learning, Artificial Intelligence and Data Sciences in Africa
 
-
 ## Egypt
 [M.Sc. in Artificial Intelligence Engineering at Zewail City of Science and Technology](https://www.zewailcity.edu.eg/main/content.php?lang=en&alias=m.sc._in_artificial_intelligence_engineering)
-
 
 ## Morocco
 [Master of Science in Big Data Analytics at Al Akhawayn University in Ifrane](http://www.aui.ma/en/sse/graduates/msbda.html)
@@ -16,3 +14,7 @@
 
 ## Namibia
 [Master of Data Science at Namibia University of Science and Technology](http://fci.nust.na/?q=course/master-data-science-coursework)
+
+## Uganda
+[AI & Data Science Research Group at Makerere University](https://cs.mak.ac.ug/research/groups_and_centers)
+
