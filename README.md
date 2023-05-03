@@ -8,6 +8,7 @@
 
 ## Somalia
 [Master of Science in Data Science at Jamhuriya University of Science and Technology (JUST)](https://just.edu.so/course/master-of-science-in-data-science/)
+[Master of Data Science at SIMAD University](https://simad.edu.so/master-of-data-science/)
 
 ## Tanzania
 [MSc in Data Science (MSc DSc) at University of Dar es Salaam](https://cse.udsm.ac.tz/programs/program-details/msc-in-data-science-%28msc-dsc%29)
