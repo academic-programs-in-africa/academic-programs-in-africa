@@ -14,6 +14,7 @@ Here is a table that summarizes the key differences between AI and machine learn
 | Examples     | Self-driving cars, virtual assistants, fraud detection                                                                                    | Spam filtering, image recognition, product recommendations                                                                               |
 | How it works | AI algorithms are typically programmed with a set of rules or instructions. They then use these rules to process data and make decisions. | Machine learning algorithms are trained on data. They learn to identify patterns in the data and use these patterns to make predictions. |
 
+## Machine Learning
 
 Machine learning is a powerful tool that can be used to solve a wide variety of problems. However, it is important to remember that machine learning is just one tool in the AI toolbox. There are many other AI techniques that can be used to achieve similar results.
 
