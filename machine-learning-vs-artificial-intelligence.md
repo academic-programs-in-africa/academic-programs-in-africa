@@ -7,7 +7,7 @@ Artificial intelligence (AI) and [Machine Learning](#machine-learning) (ML) are 
 
 In other words, AI is the umbrella term, while machine learning is a specific technique that can be used to achieve AI.
 
-Here is a table that summarizes the key differences between AI and machine learning:
+Here is a table that summarizes the key differences between AI and [Machine Learning](#machine-learning):
 
 |       | Artificial Intelligence                                                                                                                   | Machine Learning                                                                                                                         |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
