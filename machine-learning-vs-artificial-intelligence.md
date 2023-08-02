@@ -14,6 +14,7 @@ Here is a table that summarizes the key differences between AI and machine learn
 | Definition   | The ability of machines to perform tasks that are typically associated with human intelligence                                            | A subset of AI that focuses on the development of algorithms that can learn from data without being explicitly programmed                |
 | Examples     | Self-driving cars, virtual assistants, fraud detection                                                                                    | Spam filtering, image recognition, product recommendations                                                                               |
 | How it works | A variety of methods, including rule-based systems, expert systems, and neural networks. AI algorithms are typically programmed with a set of rules or instructions. They then use these rules to process data and make decisions. | Statistical methods, such as regression and classification. Machine learning algorithms are trained on data. They learn to identify patterns in the data and use these patterns to make predictions. Supervised learning, unsupervised learning, reinforcement learning are examples of Machine Learning / Statistical Learning algorithms.|
+| Approach | Top-down approach: AI researchers try to design algorithms that mimic human intelligence | Bottom-up approach: ML algorithms learn from data without being explicitly programmed |
 
 ## Machine Learning
 
