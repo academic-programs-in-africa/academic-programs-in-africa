@@ -1,6 +1,6 @@
 # Machine Learning vs. Artificial Intelligence
 
-Artificial intelligence (AI) and machine learning (ML) are two closely related terms that are often used interchangeably. However, there is a subtle difference between the two.
+Artificial intelligence (AI) and [Machine Learning](https://ac.mr/machine-learning-vs-artificial-intelligence.html#machine-learning) (ML) are two closely related terms that are often used interchangeably. However, there is a subtle difference between the two.
 
 * Artificial intelligence is a broad term that refers to the ability of machines to perform tasks that are typically associated with human intelligence, such as learning, reasoning, and problem-solving.
 * Machine learning is a subset of AI that focuses on the development of algorithms that can learn from data without being explicitly programmed.
