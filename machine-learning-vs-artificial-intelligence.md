@@ -25,5 +25,7 @@ Here are some examples of how machine learning is being used today:
 | Image recognition           | Machine learning is used to train algorithms that can identify objects in images. This technology is used in a variety of applications, such as facial recognition, object detection, and medical image analysis. |
 | Speech recognition          | Machine learning is used to train algorithms that can understand human speech. This technology is used in a variety of applications, such as voice assistants, dictation software, and call centers.              |
 | Natural language processing | Machine learning is used to train algorithms that can understand and process human language. This technology is used in a variety of applications, such as machine translation, chatbots, and spam filters.       |
+|Predictive analytics         | Using historical data to predict future outcomes|
+|Fraud detection              | Identifying fraudulent transactions|
 
 Machine learning is a rapidly growing field, and there is no doubt that it will continue to play an increasingly important role in our lives in the years to come.
