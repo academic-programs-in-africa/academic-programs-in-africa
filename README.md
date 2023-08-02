@@ -19,3 +19,6 @@
 ## Uganda
 1. [AI & Data Science Research Group at Makerere University](https://cs.mak.ac.ug/research/groups_and_centers)
 
+
+# Reference
+1. [Machine Learning vs. Artificial Intelligence](machine-learning-vs-artificial-intelligence.md)
