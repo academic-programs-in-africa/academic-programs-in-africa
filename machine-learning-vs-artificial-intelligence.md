@@ -9,7 +9,7 @@ In other words, AI is the umbrella term, while machine learning is a specific te
 
 Here is a table that summarizes the key differences between AI and machine learning:
 
-| Feature      | Artificial Intelligence                                                                                                                   | Machine Learning                                                                                                                         |
+|       | Artificial Intelligence                                                                                                                   | Machine Learning                                                                                                                         |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Definition   | The ability of machines to perform tasks that are typically associated with human intelligence                                            | A subset of AI that focuses on the development of algorithms that can learn from data without being explicitly programmed                |
 | Examples     | Self-driving cars, virtual assistants, fraud detection                                                                                    | Spam filtering, image recognition, product recommendations                                                                               |
