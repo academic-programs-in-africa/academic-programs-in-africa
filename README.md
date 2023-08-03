@@ -12,6 +12,8 @@
 
 ## Tanzania
 1. [MSc in Data Science (MSc DSc) at University of Dar es Salaam](https://cse.udsm.ac.tz/programs/program-details/msc-in-data-science-%28msc-dsc%29)
+2. [PhD in Data Science by Thesis at University of Dar es Salaam](https://cse.udsm.ac.tz/programs/program-details/phd-in-data-science-by-thesis)
+
 
 ## Namibia
 1. [Master of Data Science at Namibia University of Science and Technology](http://fci.nust.na/?q=course/master-data-science-coursework)
