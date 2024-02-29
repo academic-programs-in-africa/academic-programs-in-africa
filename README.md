@@ -24,3 +24,4 @@
 
 # Reference
 1. [Machine Learning vs. Artificial Intelligence](machine-learning-vs-artificial-intelligence.md)
+2. [Blog](blog.html)
