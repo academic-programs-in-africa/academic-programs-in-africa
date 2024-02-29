@@ -1,12 +1,9 @@
-
-title: Graduate and Post-graduate programs in Machine Learning, Artificial Intelligence and Data Science in Africa
-
 titles_from_headings:
   enabled: true
   strip_title: true
 
 header_pages:
-  - README.md
+  - blog.html
   
 remote_theme: jekyll/minima
 minima:
